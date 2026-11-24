@@ -25,25 +25,41 @@
 **Linguagens**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,js,ts,py,php,dart,kotlin&perline=8" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin"/>
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react&perline=8" alt="Front-end"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" title="Sass"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
 </p>
 
 **Back-end, aplicativos móveis e jogos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,flutter,godot&perline=8" alt="Back-end, aplicativos móveis e jogos"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot Engine" title="Godot Engine"/>
 </p>
 
 **Bancos de dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql&perline=8" alt="Bancos de dados"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" title="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
 </p>
 
 ---
@@ -51,7 +67,13 @@
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,powershell,bash&perline=8" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" title="PowerShell"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" title="Bash"/>
 </p>
 
 ---
@@ -72,9 +94,17 @@
 
 ### 📊 Linguagens mais usadas
 
+🏆 Linguagem mais usada: <!--TOP_LANG:START-->**Python** (28,0%)<!--TOP_LANG:END-->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0abl1&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-langs-light.svg"/>
+    <img src="./assets/top-langs-light.svg" alt="Linguagens mais usadas nos meus repositórios públicos"/>
+  </picture>
 </p>
+
+<sub>Calculado a partir dos meus repositórios públicos e atualizado todos os dias por uma GitHub Action.</sub>
 
 ---
 

@@ -1,0 +1,46 @@
+name: Atualizar linguagens mais usadas
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # todos os dias por volta das 06:17 (horário de Brasília)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_langs.py"
+      - ".github/workflows/update-langs.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-langs
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Gerar cartão e atualizar README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/update_langs.py
+
+      - name: Salvar alterações
+        run: |
+          if [ -z "$(git status --porcelain -- README.md assets/)" ]; then
+            echo "Nada mudou."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          git commit -m "Atualiza linguagens mais usadas"
+          git push
