@@ -86,8 +86,8 @@
 | [**Sistema de Almoxarifado**](https://github.com/M0abl1/sistema-almoxarifado) | Controle de estoque, patrimônio e movimentações com relatórios para impressão. | JavaScript · Tailwind CSS · Firebase |
 | [**Controle Financeiro**](https://github.com/M0abl1/controle-financeiro) | PWA de finanças pessoais com distribuição da renda, metas, reserva e carteira de investimentos. | TypeScript · React · Firebase · PWA |
 | [**Sistema de Ponto**](https://github.com/M0abl1/ponto-eletronico) | Controle de ponto eletrônico com área administrativa e gestão de colaboradores. | JavaScript · HTML · Tailwind CSS · Firebase |
-| [**Project Infinity Panel**](https://github.com/M0abl1/project_infinity_m0abl1) | Painel de administração de servidor Minecraft com acesso restrito via Tailscale. | Python · FastAPI · SQLite |
-| [**Jogo do Folclore**](https://github.com/M0abl1/Jogo-do-folclore) | Jogo com temática do folclore brasileiro. | Godot · GDScript |
+| [**Project Infinity Panel**](https://github.com/M0abl1/painel-minecraft) | Painel de administração de servidor Minecraft com acesso restrito via Tailscale. | Python · FastAPI · SQLite |
+| [**Jogo do Folclore**](https://github.com/M0abl1/jogo-do-folclore) | Jogo com temática do folclore brasileiro. | Godot · GDScript |
 | [**M0abl1.dev**](https://github.com/M0abl1/M0abl1.dev) | Site pessoal para exibir meu currículo. | Laravel · PHP · Docker |
 
 ---
