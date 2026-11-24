@@ -94,7 +94,7 @@
 
 ### 📊 Linguagens mais usadas
 
-🏆 Linguagem mais usada: <!--TOP_LANG:START-->**Python** (28,0%)<!--TOP_LANG:END-->
+🏆 Linguagem mais usada: <!--TOP_LANG:START-->**Python** (28,1%)<!--TOP_LANG:END-->
 
 <p align="center">
   <picture>
