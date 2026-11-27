@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="204" viewBox="0 0 360 204" role="img" aria-labelledby="title desc">
 <title id="title">Linguagens mais usadas</title>
-<desc id="desc">Mais usada: Python (29,4%). Atualizado em 26/11/2026.</desc>
+<desc id="desc">Mais usada: Python (29,4%). Atualizado em 27/11/2026.</desc>
 <style>
 .h{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#0969DA}
 .t{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#1F2328}
@@ -12,5 +12,5 @@
 <rect x="20" y="52" width="320" height="10" rx="5" fill="#D0D7DE"/>
 <g clip-path="url(#bar)"><rect x="20.00" y="52" width="94.00" height="10" fill="#3572A5"><title>Python: 29,4%</title></rect><rect x="114.00" y="52" width="67.90" height="10" fill="#3178c6"><title>TypeScript: 21,2%</title></rect><rect x="181.90" y="52" width="46.88" height="10" fill="#f1e05a"><title>JavaScript: 14,6%</title></rect><rect x="228.78" y="52" width="22.79" height="10" fill="#00ADD8"><title>Go: 7,1%</title></rect><rect x="251.57" y="52" width="22.14" height="10" fill="#e34c26"><title>HTML: 6,9%</title></rect><rect x="273.72" y="52" width="18.31" height="10" fill="#4F5D95"><title>PHP: 5,7%</title></rect><rect x="292.03" y="52" width="14.41" height="10" fill="#f7523f"><title>Blade: 4,5%</title></rect><rect x="306.44" y="52" width="12.60" height="10" fill="#00B4AB"><title>Dart: 3,9%</title></rect><rect x="319.04" y="52" width="20.96" height="10" fill="#8B949E"><title>Outras: 6,6%</title></rect></g>
 <g><title>Python: 29,4%</title><circle cx="25.0" cy="82" r="5" fill="#3572A5"/><text x="36.0" y="86" class="t">Python <tspan class="m">29,4%</tspan></text></g><g><title>TypeScript: 21,2%</title><circle cx="185.0" cy="82" r="5" fill="#3178c6"/><text x="196.0" y="86" class="t">TypeScript <tspan class="m">21,2%</tspan></text></g><g><title>JavaScript: 14,6%</title><circle cx="25.0" cy="106" r="5" fill="#f1e05a"/><text x="36.0" y="110" class="t">JavaScript <tspan class="m">14,6%</tspan></text></g><g><title>Go: 7,1%</title><circle cx="185.0" cy="106" r="5" fill="#00ADD8"/><text x="196.0" y="110" class="t">Go <tspan class="m">7,1%</tspan></text></g><g><title>HTML: 6,9%</title><circle cx="25.0" cy="130" r="5" fill="#e34c26"/><text x="36.0" y="134" class="t">HTML <tspan class="m">6,9%</tspan></text></g><g><title>PHP: 5,7%</title><circle cx="185.0" cy="130" r="5" fill="#4F5D95"/><text x="196.0" y="134" class="t">PHP <tspan class="m">5,7%</tspan></text></g><g><title>Blade: 4,5%</title><circle cx="25.0" cy="154" r="5" fill="#f7523f"/><text x="36.0" y="158" class="t">Blade <tspan class="m">4,5%</tspan></text></g><g><title>Dart: 3,9%</title><circle cx="185.0" cy="154" r="5" fill="#00B4AB"/><text x="196.0" y="158" class="t">Dart <tspan class="m">3,9%</tspan></text></g>
-<text x="20" y="192" class="f">Atualizado automaticamente em 26/11/2026 · outras linguagens: 6,6%</text>
+<text x="20" y="192" class="f">Atualizado automaticamente em 27/11/2026 · outras linguagens: 6,6%</text>
 </svg>
